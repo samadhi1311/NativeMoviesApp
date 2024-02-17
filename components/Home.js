@@ -1,4 +1,5 @@
 import { Text, View, StyleSheet, Pressable } from "react-native";
+import MyComponent from "./MyComponent";
 
 export default function Home({ navigation }) {
     return (
